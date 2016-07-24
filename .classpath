@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="rapid_framework"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/freemarker.jar" sourcepath="D:/java/source/.m2/repository/org/freemarker/freemarker/2.3.16/freemarker-2.3.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
